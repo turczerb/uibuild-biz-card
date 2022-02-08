@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uibuild-biz-card/static/css/main.da048194.css",
+    "main.js": "/uibuild-biz-card/static/js/main.481f2c7c.js",
+    "static/js/787.0d224ac2.chunk.js": "/uibuild-biz-card/static/js/787.0d224ac2.chunk.js",
+    "index.html": "/uibuild-biz-card/index.html",
+    "main.da048194.css.map": "/uibuild-biz-card/static/css/main.da048194.css.map",
+    "main.481f2c7c.js.map": "/uibuild-biz-card/static/js/main.481f2c7c.js.map",
+    "787.0d224ac2.chunk.js.map": "/uibuild-biz-card/static/js/787.0d224ac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da048194.css",
+    "static/js/main.481f2c7c.js"
+  ]
+}
